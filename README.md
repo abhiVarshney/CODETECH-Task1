@@ -1,8 +1,8 @@
-Name- Abhinav Varshney
-Company- CODETECH IT SOLUTION
-ID- : CT12DS1532
-Domain- Python Programming
-Duration- July to September 2024
+**Name**- Abhinav Varshney
+**Company**- CODETECH IT SOLUTION
+**ID-** : CT12DS1532
+**Domain-** Python Programming
+**Duration**- July to September 2024
 
 ## Overview of Project
 
