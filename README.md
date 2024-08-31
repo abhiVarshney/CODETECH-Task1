@@ -25,7 +25,7 @@ The objective of this project is to create a user-friendly space for individuals
 
 ### Screenshots
 
-![image](https://github.com/user-attachments/assets/c1247cf4-fe6f-4ded-af1f-a9cd5ce638dc)
+![image](https://github.com/user-attachments/assets/04c4fc5c-6495-4b36-8afc-e94dec9b5579)
 
 ![image](https://github.com/user-attachments/assets/678cc1fc-b7bc-49dd-8f62-da29a2c1d9f7)
 
