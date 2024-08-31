@@ -18,7 +18,8 @@ The objective of this project is to create a user-friendly space for individuals
 
 ### Technologies Used-
 
-**Front-end** - HTML, CSS
+**Front-end** - HTML, Bootstrap
+
 **Back-end** - Django (Python)
 
 
