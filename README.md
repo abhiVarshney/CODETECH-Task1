@@ -23,6 +23,15 @@ The objective of this project is to create a user-friendly space for individuals
 **Back-end** - Django (Python)
 
 
+### Screenshots
+
+![image](https://github.com/user-attachments/assets/c1247cf4-fe6f-4ded-af1f-a9cd5ce638dc)
+
+![image](https://github.com/user-attachments/assets/678cc1fc-b7bc-49dd-8f62-da29a2c1d9f7)
+
+![image](https://github.com/user-attachments/assets/ecdfb957-b47a-4a38-9f78-3ca7e8c0d7e6)
+
+
 
 
 
